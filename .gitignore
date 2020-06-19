@@ -1,6 +1,7 @@
 src/net.standart.redis.locker/bin
 src/net.standart.redis.locker/obj
-
+test/net.standart.redis.locker.test/bin
+test/net.standart.redis.locker.test/obj
 # local env files
 .env.local
 .env.*.local
