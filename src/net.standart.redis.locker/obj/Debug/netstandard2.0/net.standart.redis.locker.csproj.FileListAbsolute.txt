@@ -1,0 +1,9 @@
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\bin\Debug\netstandard2.0\net.standart.redis.locker.deps.json
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\bin\Debug\netstandard2.0\net.standart.redis.locker.dll
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.AssemblyInfoInputs.cache
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.AssemblyInfo.cs
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\bin\Debug\netstandard2.0\net.standart.redis.locker.pdb
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.dll
+C:\Users\Ömer Faruk\Desktop\net-standart-redis-locker\src\net.standart.redis.locker\obj\Debug\netstandard2.0\net.standart.redis.locker.pdb
